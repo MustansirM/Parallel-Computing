@@ -47,4 +47,4 @@ Deliverables:
 Any 4 out of 5 could be completed for full credit.
 
 A .c file for the implementation and an associated make file have been included for each exercise. 
-The problem statement has been included as a comment at the beginning of each .c file
+The problem statement has been stated as a comment at the beginning of each .c file
