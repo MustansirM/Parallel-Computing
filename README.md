@@ -1,7 +1,7 @@
 # Parallel-Computing
 Programming assignments completed for CS F422: Parallel Computing (Sem 2 2019-20)
 
-# Assignment 1
+## Assignment 1
 Two questions were given and work was to be divided between two students.
 I completed the second question, whose problem statement and deliverables are given below.
 
@@ -21,7 +21,7 @@ Deliverables:
  - Design Document (.pdf). Must contain answers for (b), (c), (d)
  - gaussian_parallel.c for (a)
 
-# Assignment 2
+## Assignment 2
 Two questions were given and work was to be divided between two students.
 I completed the second question, whose problem statement and deliverables are given below.
 
@@ -42,7 +42,7 @@ Deliverables:
   - Plots and data
   - Screen shots/ Video recording of the demo
   
-# Take Home Assignements
+## Take Home Assignements
 5 Take Home Assigments were given, to be done individually. 
 Any 4 out of 5 could be completed for full credit.
 
