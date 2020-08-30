@@ -46,4 +46,5 @@ Deliverables:
 5 Take Home Assigments were given, to be done individually. 
 Any 4 out of 5 could be completed for full credit.
 
-The problem statements have been included as a comment at the beginning of each .c file
+A .c file for the implementation and an associated make file have been created for each individual problem. 
+The problem statement have been included as a comment at the beginning of each .c file
