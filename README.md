@@ -42,9 +42,9 @@ Deliverables:
   - Plots and data
   - Screen shots/ Video recording of the demo
   
-## Take Home Assignements
-5 Take Home Assigments were given, to be done individually. 
+## Take Home Exercises
+5 Take Home Exercises were given, to be completed individually by each student. 
 Any 4 out of 5 could be completed for full credit.
 
-A .c file for the implementation and an associated make file have been created for each individual problem. 
-The problem statement have been included as a comment at the beginning of each .c file
+A .c file for the implementation and an associated make file have been included for each exercise. 
+The problem statement has been included as a comment at the beginning of each .c file
